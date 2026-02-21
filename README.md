@@ -1,8 +1,3 @@
-Here’s a clean **README.md** you can paste into GitHub for your repo.
-(Simple + professional + good for recruiters + YouTube audience)
-
----
-
 # BuiltAI Mentor – Personal AI Career Coach
 
 An AI-powered career mentor built using **Python + Ollama (Llama3)** to guide software engineers on career growth, skills, salary progression, and transitioning into AI.
